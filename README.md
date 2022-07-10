@@ -6,4 +6,4 @@
 
 Recommended font: [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-![Example](/images/example.png "Logo Title Text 1")
+![Example](https://raw.githubusercontent.com/atfilipcc/solan-gundersen-night/main/images/example.png "Logo Title Text 1")
