@@ -2,13 +2,13 @@
   "name": "solan-gundersen-night",
   "displayName": "Solan Gundersen Night",
   "description": "A colorful dark theme.",
-  "icon": "images/logo.png",
+  "icon": "images/logo.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/atfilipcc/solan-gundersen-night"
   },
   "publisher": "atfilipcc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.40.0"
   },
